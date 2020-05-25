@@ -18,7 +18,7 @@
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
-    "tape": "^4.8.0"
+    "tape": "^5.0.1"
   },
   "directories": {
     "test": "test"
